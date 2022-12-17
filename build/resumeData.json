@@ -1,0 +1,175 @@
+{
+  "main": {
+    "name":"Tanu Singh",
+    "occupation":"Junior Software developer",
+    "description":"with two plus year of experience in development web, mobile applications.",
+    "image":"profilepic.jpg",
+    "bio":"I'm a software developer at Conaxweb Solutions. I try my best to share my skills with clients and also support work participation",
+    "email": "tanusingh8561@gmail.com",
+    "phone": "91+ 8318459998",
+    "address":{
+      "street":"Naini ADA Colony",
+      "city":"Prayagraj",
+      "state":"UP.",
+      "zip": "211008"
+    },
+    "website": "#",
+    "resumedownload":"#",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"http://linkedin.com",
+        "className":"fa fa-linkedin"
+      },
+  
+      {
+        "name":"github",
+        "url":"http://github.com",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"https://join.skype.com/invite/irdirC7bIt6s",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "education":[
+      {
+        "school":"The DevPrayag Institute Technical Studies Allahabad (APJAKTU)",
+        "degree":"B.TECH",
+        "graduated":"2017",
+        "description":"Completed college with DevPrayag Institute Technical Studies."
+      }
+      ,
+      {
+        "school":"The J. J. D. B. Inter College Bihar Pratapgarh (BHSIEUP)",
+        "degree":"12",
+        "graduated":"June 2011",
+        "description":"Completed college with Jagdish Janta Devraha Baba Inter College."
+      },
+      {
+        "school":"B. B. S Public Inter College Barna Kunda Pratapgarh (BHSIEUP)",
+        "degree":"10",
+        "graduated":"May 2009",
+        "description":"Completed High School with B. B. S Public Inter College."
+      }
+      
+    ],
+    
+    "work":[
+      {
+        "company":"Conaxweb Solutions, Prayagraj",
+        "title":"Junior Software Developer",
+        "years":"August 2021 - present",
+        "description":"Undertaking all aspects as a software developer, such as support work participation, managing new employees, building real-world websites responsive with HTML5, JavaScript, and CSS3, cross-browser development, and reusability for future use Writing code and libraries.."
+      },
+      {
+        "company":"Softyoug Solutions, Gujrat",
+        "title":"Junior android developer",
+        "years":"January 2018 - September 2018",
+        "description":"Developing android applications."
+      }
+    ],
+   
+    "skills":[
+      {
+        "name":"Web development"
+      },
+      {
+        "name":"JavaScript"
+      },
+      {
+        "name":"TypeScript"
+      },
+      {
+        "name":"HTML"
+      },
+      {
+        "name":"CSS"
+      },
+      {
+        "name":"MongoDB"
+      }
+      
+    ]
+  },
+  "portfolio":{
+    "projects":[
+      {
+        "name":"Zymo",
+        "url":"",
+        "description":"Commercial Construction",
+        "roleType":"Front-End developer",
+        "duration":"Sep 2021 - Oct -2021",
+        "metaTitle":"Zymo developed for Expert Advice, Excellent Services for Commercial Construction Services",
+        "MetaDescription":"Developed admin panel using JavaScript, HTML5, CSS, and node js with MongoDB"
+      },
+      {
+        "name":"ConaxInfotech",
+        "url":"",
+        "description":"Educational",
+        "roleType":"Front-End developer",
+        "duration":"Oct 2021 - December 2021",
+        "metaTitle":"ConaxInfotech was developed for providing training for CS/ IT, Mechanical & Electrical students.All types of hardware, software, programming & language.",
+        "MetaDescription":"Developed admin panel using JavaScript, HTML5, CSS, and node js with MongoDB"
+      },
+      {
+        "name":"Dailynivesh",
+        "url":"",
+        "description":"Investment advisors",
+        "roleType":"Front-End developer",
+        "duration":"Dec 2021 - Fab -2022",
+        "metaTitle":"Dailynivesh is developed for stock market investments and provides investment advisor.",
+        "MetaDescription":"Developed admin panel using JavaScript, HTML5, CSS, and node js with MongoDB"
+      },
+      {
+        "name":"Lottery",
+        "url":"",
+        "description":"",
+        "roleType":"Front-End developer",
+        "duration":"Fab 2022 - Mar -2022",
+        "metaTitle":"The lottery is developed for trying luck.",
+        "MetaDescription":"Developed admin panel and Services using JavaScript, HTML5, CSS, and node js with MongoDB"
+      },
+      {
+        "name":"Mera Invest",
+        "url":"https://www.merainvest.com/",
+        "description":"",
+        "roleType":"Front-End developer",
+        "duration":"Mar 2022 - Mar -2022",
+        "metaTitle":"Mera Invest is a real estate developing company.",
+        "MetaDescription":"Developed website using JavaScript, HTML5, CSS ( Login, Registration,Validation and Verification Email,UI, Tailwind"
+      },
+      {
+        "name":"Fabwelt",
+        "url":"https://market.fabwelt.com/",
+        "description":"NFT Marketplace",
+        "roleType":"Front-End developer",
+        "duration":"Apr 2022 - May -2022",
+        "metaTitle":"Fabwelt is a web3 marketplace for NFTs. Browse, create, buy, sell, and auction NFTs..",
+        "MetaDescription":"Developed admin panel and website using JavaScript, HTML5, CSS, Solidity and node js with MongoDB"
+      },
+      {
+        "name":"Stripto",
+        "url":"http://3.20.188.106:3000/",
+        "description":"NFT Marketplace",
+        "roleType":"Front-End developer",
+        "duration":"May 2022 - Aug -2022",
+        "metaTitle":"Stripto is a web3 marketplace for NFTs. Browse, create, buy, and sell.",
+        "MetaDescription":"Developed admin panel and website using JavaScript, HTML5, CSS, Solidity and node js with MongoDB"
+      },
+      {
+        "name":"Cronosmart",
+        "url":"",
+        "description":"NFT Marketplace",
+        "roleType":"Front-End developer",
+        "duration":"Aug 2022 - Aug -Present",
+        "metaTitle":"Cronosmart is a web3 marketplace for NFTs. Browse, create, buy, sell, transfer, burn, resale, and auction NFTs.",
+        "MetaDescription":"Developed admin panel and website using TypeScript, HTML5, CSS, and node js with MongoDB"
+      }
+    ]
+  }
+
+}
