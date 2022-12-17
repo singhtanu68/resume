@@ -10,9 +10,9 @@
  
   "repository": {
     "type": "git",
-    "url": "git@github.com:singhanju15/resume.git"
+    "url": "git@github.com:singhtanu68/resume.git"
   },
-  "homepage": "https://github.com/singhanju15/resume.git",
+  "homepage": "https://github.com/singhtanu68/resume.git",
   "license": "ISC",
   "devDependencies": {
     "gh-pages": "^0.12.0",
