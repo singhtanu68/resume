@@ -8,7 +8,7 @@ class Resume extends Component {
         return <div key={edu.school} className="row item">
            <div className="twelve columns">
               <h3>{edu.school}</h3>
-              <p className="info">{edu.degree}{(edu.degree=='10'||edu.degree=='12')&&<sup>th</sup>} <span>&bull;</span> <em className="date">{edu.graduated}</em></p>
+              <p className="info">{edu.degree}{(edu.degree==='10'||edu.degree ==='12')&&<sup>th</sup>} <span>&bull;</span> <em className="date">{edu.graduated}</em></p>
               <p>
                 {edu.description}
               </p>

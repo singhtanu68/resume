@@ -4,4 +4,4 @@ npm install
 
 
 To start the app, run
-npm starts
+npm start

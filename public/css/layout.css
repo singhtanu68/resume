@@ -232,8 +232,8 @@ ul#nav li.current a { color: #8bc34a; }
 
 #resume {
    background: #fff;
-   padding-top: 90px;
-   padding-bottom: 72px;
+   padding-top: 20px;
+   /* padding-bottom: 90px; */
    overflow: hidden;
 }
 

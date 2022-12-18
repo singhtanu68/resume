@@ -1,8 +1,8 @@
 
 # React Resume 
 
-> git clone https://github.com/singhanju15/resume.git
-> cd resume-example
-> npm install
-> npm start
+> 1. git clone https://github.com/singhanju15/resume.git
+> 2. cd resume
+> 3. npm install
+> 4. npm start
 

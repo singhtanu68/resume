@@ -16,15 +16,15 @@
     "website": "#",
     "resumedownload":"#",
     "social":[
-      {
+       {
         "name":"linkedin",
-        "url":"http://linkedin.com",
+        "url":"https://www.linkedin.com/in/tanu-singh-12680b23a",
         "className":"fa fa-linkedin"
       },
-  
+    
       {
         "name":"github",
-        "url":"http://github.com",
+        "url":"https://github.com/singhtanu68",
         "className":"fa fa-github"
       },
       {
@@ -44,15 +44,15 @@
       }
       ,
       {
-        "school":"The J. J. D. B. Inter College Bihar Pratapgarh (BHSIEUP)",
+        "school":"The J J D B Inter College Bihar Pratapgarh (BHSIEUP)",
         "degree":"12",
-        "graduated":"June 2011",
+        "graduated":"2011",
         "description":"Completed college with Jagdish Janta Devraha Baba Inter College."
       },
       {
         "school":"B. B. S Public Inter College Barna Kunda Pratapgarh (BHSIEUP)",
         "degree":"10",
-        "graduated":"May 2009",
+        "graduated":"2009",
         "description":"Completed High School with B. B. S Public Inter College."
       }
       
@@ -140,7 +140,7 @@
         "roleType":"Front-End developer",
         "duration":"Mar 2022 - Mar -2022",
         "metaTitle":"Mera Invest is a real estate developing company.",
-        "MetaDescription":"Developed website using JavaScript, HTML5, CSS ( Login, Registration,Validation and Verification Email,UI, Tailwind"
+        "MetaDescription":"Developed websites using JavaScript, HTML5, CSS ( Login, Registration,Validation and Verification Email,UI, Tailwind"
       },
       {
         "name":"Fabwelt",
@@ -171,5 +171,4 @@
       }
     ]
   }
-
 }
