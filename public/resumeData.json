@@ -1,7 +1,7 @@
 {
   "main": {
     "name":"Tanu Singh",
-    "occupation":"Junior Software developer",
+    "occupation":"Full Mern-satck Developer",
     "description":"with two plus year of experience in development web, mobile applications.",
     "image":"profilepic.jpg",
     "bio":"I'm a software developer at Conaxweb Solutions. I try my best to share my skills with clients and also support work participation",
@@ -75,22 +75,19 @@
    
     "skills":[
       {
-        "name":"Web development"
+        "name":"Software Development Lifecycle"
       },
       {
-        "name":"JavaScript"
+        "name":"Web Technologies: AngularJS,ReactJS, NextJS, jQuery,Bootstrap, Web3,TypeScript."
       },
       {
-        "name":"TypeScript"
+        "name":"Front-End Programming: HTML5, CSS3, AJAX."
       },
       {
-        "name":"HTML"
+        "name":"Databases: MongoDB"
       },
       {
-        "name":"CSS"
-      },
-      {
-        "name":"MongoDB"
+        "name":"Version Control Systems: Git, Github"
       }
       
     ]
