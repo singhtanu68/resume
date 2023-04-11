@@ -61,13 +61,13 @@
     "work":[
       {
         "company":"Conaxweb Solutions, Prayagraj",
-        "title":"Junior Software Developer",
+        "title":"Mern-Stack devloper",
         "years":"August 2021 - present",
         "description":"Undertaking all aspects as a software developer, such as support work participation, managing new employees, building real-world websites responsive with HTML5, JavaScript, and CSS3, cross-browser development, and reusability for future use Writing code and libraries.."
       },
       {
         "company":"Softyoug Solutions, Gujrat",
-        "title":"Junior android developer",
+        "title":"Android developer",
         "years":"January 2018 - September 2018",
         "description":"Developing android applications."
       }
@@ -153,7 +153,7 @@
       },
       {
         "name":"Stripto",
-        "url":"http://3.20.188.106:3000/",
+        "url":"https://dev.stripto.io/",
         "description":"NFT Marketplace",
         "roleType":"Front-End developer",
         "duration":"May 2022 - Aug -2022",
@@ -165,8 +165,17 @@
         "url":"",
         "description":"NFT Marketplace",
         "roleType":"Front-End developer",
-        "duration":"Aug 2022 - Aug -Present",
+        "duration":"Aug 2022 - Nov 2022",
         "metaTitle":"Cronosmart is a web3 marketplace for NFTs. Browse, create, buy, sell, transfer, burn, resale, and auction NFTs.",
+        "MetaDescription":"Developed admin panel and website using TypeScript, HTML5, CSS, and node js with MongoDB"
+      },
+      {
+        "name":"Readfi",
+        "url":"http://readfi.io/#nft",
+        "description":"NFT Marketplace",
+        "roleType":"Front-End developer",
+        "duration":"Dec 2022 - Present",
+        "metaTitle":"Readfi is a web3 marketplace for NFTs. Browse, create, buy, sell, transfer, burn, resale, and auction NFTs.",
         "MetaDescription":"Developed admin panel and website using TypeScript, HTML5, CSS, and node js with MongoDB"
       }
     ]
