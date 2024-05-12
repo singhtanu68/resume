@@ -2,23 +2,22 @@
   "main": {
     "name":"Tanu Singh",
     "occupation":"Full Mern-satck Developer",
-    "description":"with two plus year of experience in development web, mobile applications.",
-    "image":"profilepic.jpg",
-    "bio":"I'm a software developer at Conaxweb Solutions. I try my best to share my skills with clients and also support work participation",
+    "description":"with 2.8 years of experience in development web.",
+    "image":"profile.jpg",
+    "bio":"I am passionate about Mern-Stack Development, with 2.8 years of experience in web development and optimize performance.",
     "email": "tanusingh8561@gmail.com",
     "phone": "91+ 8318459998",
-    "address":{
-      "street":"Naini ADA Colony",
-      "city":"Prayagraj",
-      "state":"UP.",
-      "zip": "211008"
-    },
+    "address":
+      {
+        "street":"Sector 20 Noida UP. 201301",
+        "className":"fa fa-map-marker"
+      },
     "website": "#",
     "resumedownload":"#",
     "social":[
        {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tanu-singh-12680b23a",
+        "url":"www.linkedin.com/in/tanusingh24",
         "className":"fa fa-linkedin"
       },
     
@@ -37,14 +36,14 @@
   "resume":{
     "education":[
       {
-        "school":"The DevPrayag Institute Technical Studies Allahabad (APJAKTU)",
+        "school":"DevPrayag Institute Technical Studies Allahabad (APJAKTU)",
         "degree":"B.TECH",
         "graduated":"2017",
         "description":"Completed college with DevPrayag Institute Technical Studies."
       }
       ,
       {
-        "school":"The J J D B Inter College Bihar Pratapgarh (BHSIEUP)",
+        "school":"J J D B Inter College Bihar Pratapgarh (BHSIEUP)",
         "degree":"12",
         "graduated":"2011",
         "description":"Completed college with Jagdish Janta Devraha Baba Inter College."
@@ -60,37 +59,51 @@
     
     "work":[
       {
+        "company":"AltezzaSys systems Pvt. Ltd., Noida",
+        "title":"Mern-Stack devloper",
+        "years":"April 2023 - November 2023",
+        "description":"Undertaking all aspects as a software developer, such as support work participation, managing new employees, building real-world websites responsive with HTML5, JavaScript, and CSS3, cross-browser development, and reusability for future use Writing code and libraries.."
+      },
+      {
         "company":"Conaxweb Solutions, Prayagraj",
         "title":"Mern-Stack devloper",
-        "years":"August 2021 - present",
+        "years":"August 2021 - March 2023",
         "description":"Undertaking all aspects as a software developer, such as support work participation, managing new employees, building real-world websites responsive with HTML5, JavaScript, and CSS3, cross-browser development, and reusability for future use Writing code and libraries.."
+      },
+      {
+        "company":"Royal Finserv, Surat",
+        "title":"Sales Manager",
+        "years":"August 2021 - March 2023",
+        "description":"Delivered sales presentations focused on offerings and unique advantages over competitors."
       },
       {
         "company":"Softyoug Solutions, Gujrat",
         "title":"Android developer",
         "years":"January 2018 - September 2018",
-        "description":"Developing android applications."
+        "description":"Developed mobile applications tailored to client requirements utilizing native technologies."
       }
     ],
    
     "skills":[
+     
       {
-        "name":"Software Development Lifecycle"
+        "name":"Web Technologies",
+        "technologies": ["AngularJS", "ReactJS", "NextJS", "Bootstrap", "Web3", "TypeScript"]
       },
       {
-        "name":"Web Technologies: AngularJS,ReactJS, NextJS, jQuery,Bootstrap, Web3,TypeScript."
+        "name":"Front-End Programming",
+        "technologies": ["HTML5", "CSS3", "AJAX"]
       },
       {
-        "name":"Front-End Programming: HTML5, CSS3, AJAX."
+        "name":"Databases",
+        "technologies": ["MongoDB"]
       },
       {
-        "name":"Databases: MongoDB"
-      },
-      {
-        "name":"Version Control Systems: Git, Github"
+        "name":"Version Control Systems",
+        "technologies": ["Git", "Github"]
       }
-      
     ]
+    
   },
   "portfolio":{
     "projects":[

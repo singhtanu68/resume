@@ -4,8 +4,11 @@ import Header from './Components/Header';
 import About from './Components/About';
 import Resume from './Components/Resume';
 import Portfolio from './Components/Portfolio';
+import Skills from './Components/Skills';
 import Footer from './Components/Footer';
 import {main,portfolio,resume} from '../public/resumeData'
+import Experience from './Components/Experience';
+import Eduction from './Components/Education';
 
 
 class App extends Component {
@@ -21,17 +24,14 @@ class App extends Component {
       }
     }
   }
-
-
-
-
-  render() {
-    console.log(portfolio);
+render() {
     return (
       <div className="App">
         <Header data={main} />
         <About data={this.state.resumeData.main} />
-        <Resume data={this.state.resumeData.resume} />
+        <Skills data={this.state.resumeData.resume}  />
+        <Experience data={this.state.resumeData.resume} />
+        <Eduction data={this.state.resumeData.resume} />
         <Portfolio data={this.state.resumeData.portfolio} />
         <Footer />
       </div>

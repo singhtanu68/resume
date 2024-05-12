@@ -19,7 +19,7 @@ class Portfolio extends Component {
        
       }
       return (
-         <section id="resume">
+         <section id="project">
 
             <div className="row work">
                <div className="three columns header-col">

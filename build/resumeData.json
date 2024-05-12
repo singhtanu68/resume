@@ -1,24 +1,23 @@
 {
   "main": {
     "name":"Tanu Singh",
-    "occupation":"Junior Software developer",
-    "description":"with two plus year of experience in development web, mobile applications.",
-    "image":"profilepic.jpg",
-    "bio":"I'm a software developer at Conaxweb Solutions. I try my best to share my skills with clients and also support work participation",
+    "occupation":"Full Mern-satck Developer",
+    "description":"with 2.8 years of experience in development web.",
+    "image":"profile.jpg",
+    "bio":"I am passionate about Mern-Stack Development, with 2.8 years of experience in web development and optimize performance.",
     "email": "tanusingh8561@gmail.com",
     "phone": "91+ 8318459998",
-    "address":{
-      "street":"Naini ADA Colony",
-      "city":"Prayagraj",
-      "state":"UP.",
-      "zip": "211008"
-    },
+    "address":
+      {
+        "street":"Sector 20 Noida UP. 201301",
+        "className":"fa fa-map-marker"
+      },
     "website": "#",
     "resumedownload":"#",
     "social":[
        {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tanu-singh-12680b23a",
+        "url":"www.linkedin.com/in/tanusingh24",
         "className":"fa fa-linkedin"
       },
     
@@ -37,14 +36,14 @@
   "resume":{
     "education":[
       {
-        "school":"The DevPrayag Institute Technical Studies Allahabad (APJAKTU)",
+        "school":"DevPrayag Institute Technical Studies Allahabad (APJAKTU)",
         "degree":"B.TECH",
         "graduated":"2017",
         "description":"Completed college with DevPrayag Institute Technical Studies."
       }
       ,
       {
-        "school":"The J J D B Inter College Bihar Pratapgarh (BHSIEUP)",
+        "school":"J J D B Inter College Bihar Pratapgarh (BHSIEUP)",
         "degree":"12",
         "graduated":"2011",
         "description":"Completed college with Jagdish Janta Devraha Baba Inter College."
@@ -60,40 +59,51 @@
     
     "work":[
       {
-        "company":"Conaxweb Solutions, Prayagraj",
-        "title":"Junior Software Developer",
-        "years":"August 2021 - present",
+        "company":"AltezzaSys systems Pvt. Ltd., Noida",
+        "title":"Mern-Stack devloper",
+        "years":"April 2023 - November 2023",
         "description":"Undertaking all aspects as a software developer, such as support work participation, managing new employees, building real-world websites responsive with HTML5, JavaScript, and CSS3, cross-browser development, and reusability for future use Writing code and libraries.."
       },
       {
+        "company":"Conaxweb Solutions, Prayagraj",
+        "title":"Mern-Stack devloper",
+        "years":"August 2021 - March 2023",
+        "description":"Undertaking all aspects as a software developer, such as support work participation, managing new employees, building real-world websites responsive with HTML5, JavaScript, and CSS3, cross-browser development, and reusability for future use Writing code and libraries.."
+      },
+      {
+        "company":"Royal Finserv, Surat",
+        "title":"Sales Manager",
+        "years":"August 2021 - March 2023",
+        "description":"Delivered sales presentations focused on offerings and unique advantages over competitors."
+      },
+      {
         "company":"Softyoug Solutions, Gujrat",
-        "title":"Junior android developer",
+        "title":"Android developer",
         "years":"January 2018 - September 2018",
-        "description":"Developing android applications."
+        "description":"Developed mobile applications tailored to client requirements utilizing native technologies."
       }
     ],
    
     "skills":[
+     
       {
-        "name":"Web development"
+        "name":"Web Technologies",
+        "technologies": ["AngularJS", "ReactJS", "NextJS", "Bootstrap", "Web3", "TypeScript"]
       },
       {
-        "name":"JavaScript"
+        "name":"Front-End Programming",
+        "technologies": ["HTML5", "CSS3", "AJAX"]
       },
       {
-        "name":"TypeScript"
+        "name":"Databases",
+        "technologies": ["MongoDB"]
       },
       {
-        "name":"HTML"
-      },
-      {
-        "name":"CSS"
-      },
-      {
-        "name":"MongoDB"
+        "name":"Version Control Systems",
+        "technologies": ["Git", "Github"]
       }
-      
     ]
+    
   },
   "portfolio":{
     "projects":[
@@ -153,7 +163,7 @@
       },
       {
         "name":"Stripto",
-        "url":"http://3.20.188.106:3000/",
+        "url":"https://dev.stripto.io/",
         "description":"NFT Marketplace",
         "roleType":"Front-End developer",
         "duration":"May 2022 - Aug -2022",
@@ -165,8 +175,17 @@
         "url":"",
         "description":"NFT Marketplace",
         "roleType":"Front-End developer",
-        "duration":"Aug 2022 - Aug -Present",
+        "duration":"Aug 2022 - Nov 2022",
         "metaTitle":"Cronosmart is a web3 marketplace for NFTs. Browse, create, buy, sell, transfer, burn, resale, and auction NFTs.",
+        "MetaDescription":"Developed admin panel and website using TypeScript, HTML5, CSS, and node js with MongoDB"
+      },
+      {
+        "name":"Readfi",
+        "url":"http://readfi.io/#nft",
+        "description":"NFT Marketplace",
+        "roleType":"Front-End developer",
+        "duration":"Dec 2022 - Present",
+        "metaTitle":"Readfi is a web3 marketplace for NFTs. Browse, create, buy, sell, transfer, burn, resale, and auction NFTs.",
         "MetaDescription":"Developed admin panel and website using TypeScript, HTML5, CSS, and node js with MongoDB"
       }
     ]
