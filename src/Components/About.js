@@ -15,6 +15,8 @@ class About extends Component {
         var phone = this.props.data.phone;
         var email = this.props.data.email;
     }
+
+    
     return (
       <section id="about">
       <div className="row">
